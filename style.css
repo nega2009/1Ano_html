@@ -2,6 +2,24 @@ body{
 background-color: blueviolet;
 color:black;
 }
+section{
+    background-color: black;
+    padding-top: 77px;
+    padding-bottom: 77px;
+    display: flex;
+    justify-content: center;
+}
+
+.primeira chamada{
+    margin-right:5%;
+}
+    .maisvideos{
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+}
+    
+
 header  {
     margin: 55px;
     background-color: aqua;
@@ -10,10 +28,6 @@ header  {
     border: botom 3px rgb(#EB01CD) padding 29px;
 }
 
-section {
-    background-color: black;
-    margin: 55px;
-    display: flex;
-}
+
 
 
